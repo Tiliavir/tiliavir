@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/CC21-EDW/workflow-control-center/pull/3) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-2. ❗️ Opened issue [#2](https://github.com/CC21-EDW/workflow-control-center/issues/2) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-3. ❗️ Opened issue [#1](https://github.com/CC21-EDW/workflow-control-center/issues/1) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-4. 🎉 Merged PR [#89](https://github.com/Tiliavir/mvw-search-index/pull/89) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🎉 Merged PR [#99](https://github.com/Tiliavir/wollbach-website/pull/99) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🎉 Merged PR [#132](https://github.com/Tiliavir/mvw-website/pull/132) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🎉 Merged PR [#88](https://github.com/Tiliavir/mvw-search-index/pull/88) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-8. 🎉 Merged PR [#98](https://github.com/Tiliavir/wollbach-website/pull/98) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. 🎉 Merged PR [#131](https://github.com/Tiliavir/mvw-website/pull/131) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-10. 🎉 Merged PR [#87](https://github.com/Tiliavir/mvw-search-index/pull/87) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+1. 💪 Opened PR [#7](https://github.com/CC21-EDW/workflow-control-center/pull/7) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+2. ❗️ Opened issue [#6](https://github.com/CC21-EDW/workflow-control-center/issues/6) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+3. 💪 Opened PR [#5](https://github.com/CC21-EDW/workflow-control-center/pull/5) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+4. ❗️ Opened issue [#4](https://github.com/CC21-EDW/workflow-control-center/issues/4) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+5. 💪 Opened PR [#3](https://github.com/CC21-EDW/workflow-control-center/pull/3) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+6. ❗️ Opened issue [#2](https://github.com/CC21-EDW/workflow-control-center/issues/2) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+7. ❗️ Opened issue [#1](https://github.com/CC21-EDW/workflow-control-center/issues/1) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+8. 🎉 Merged PR [#89](https://github.com/Tiliavir/mvw-search-index/pull/89) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+9. 🎉 Merged PR [#99](https://github.com/Tiliavir/wollbach-website/pull/99) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+10. 🎉 Merged PR [#132](https://github.com/Tiliavir/mvw-website/pull/132) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 <!--END_SECTION:activity-->
 
 </details>
