@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/CC21-EDW/workflow-control-center/issues/2) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-2. 🎉 Merged PR [#13](https://github.com/CC21-EDW/workflow-control-center/pull/13) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-3. 🗣 Commented on [#70](https://github.com/baloise/digital-signature/issues/70) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-4. 🗣 Commented on [#70](https://github.com/baloise/digital-signature/issues/70) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-5. ❗️ Opened issue [#12](https://github.com/CC21-EDW/workflow-control-center/issues/12) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-6. 💪 Opened PR [#11](https://github.com/CC21-EDW/workflow-control-center/pull/11) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-7. 🎉 Merged PR [#9](https://github.com/CC21-EDW/workflow-control-center/pull/9) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-8. 💪 Opened PR [#9](https://github.com/CC21-EDW/workflow-control-center/pull/9) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-9. 🎉 Merged PR [#90](https://github.com/Tiliavir/mvw-search-index/pull/90) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. 🎉 Merged PR [#7](https://github.com/CC21-EDW/sports-repository/pull/7) in [CC21-EDW/sports-repository](https://github.com/CC21-EDW/sports-repository)
+1. ❗️ Closed issue [#8](https://github.com/CC21-EDW/strava-connect/issues/8) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
+2. ❗️ Closed issue [#7](https://github.com/CC21-EDW/edw-component/issues/7) in [CC21-EDW/edw-component](https://github.com/CC21-EDW/edw-component)
+3. ❗️ Closed issue [#6](https://github.com/CC21-EDW/strava-connect/issues/6) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
+4. ❗️ Closed issue [#1](https://github.com/CC21-EDW/strava-connect/issues/1) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
+5. ❗️ Closed issue [#3](https://github.com/CC21-EDW/strava-connect/issues/3) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
+6. 🎉 Merged PR [#16](https://github.com/CC21-EDW/workflow-control-center/pull/16) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+7. 💪 Opened PR [#16](https://github.com/CC21-EDW/workflow-control-center/pull/16) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+8. ❗️ Closed issue [#12](https://github.com/CC21-EDW/workflow-control-center/issues/12) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+9. 🗣 Commented on [#15](https://github.com/CC21-EDW/workflow-control-center/issues/15) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+10. 💪 Opened PR [#15](https://github.com/CC21-EDW/workflow-control-center/pull/15) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
 <!--END_SECTION:activity-->
 
 </details>
