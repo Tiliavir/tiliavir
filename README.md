@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/CC21-EDW/strava-connect/issues/8) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
-2. ❗️ Closed issue [#7](https://github.com/CC21-EDW/edw-component/issues/7) in [CC21-EDW/edw-component](https://github.com/CC21-EDW/edw-component)
-3. ❗️ Closed issue [#6](https://github.com/CC21-EDW/strava-connect/issues/6) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
-4. ❗️ Closed issue [#1](https://github.com/CC21-EDW/strava-connect/issues/1) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
-5. ❗️ Closed issue [#3](https://github.com/CC21-EDW/strava-connect/issues/3) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
-6. 🎉 Merged PR [#16](https://github.com/CC21-EDW/workflow-control-center/pull/16) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-7. 💪 Opened PR [#16](https://github.com/CC21-EDW/workflow-control-center/pull/16) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-8. ❗️ Closed issue [#12](https://github.com/CC21-EDW/workflow-control-center/issues/12) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-9. 🗣 Commented on [#15](https://github.com/CC21-EDW/workflow-control-center/issues/15) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
-10. 💪 Opened PR [#15](https://github.com/CC21-EDW/workflow-control-center/pull/15) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+1. 💪 Opened PR [#17](https://github.com/CC21-EDW/workflow-control-center/pull/17) in [CC21-EDW/workflow-control-center](https://github.com/CC21-EDW/workflow-control-center)
+2. 🗣 Commented on [#137](https://github.com/Tiliavir/mvw-website/issues/137) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. ❗️ Opened issue [#137](https://github.com/Tiliavir/mvw-website/issues/137) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. ❗️ Opened issue [#136](https://github.com/Tiliavir/mvw-website/issues/136) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#91](https://github.com/Tiliavir/mvw-search-index/pull/91) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#102](https://github.com/Tiliavir/wollbach-website/pull/102) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#135](https://github.com/Tiliavir/mvw-website/pull/135) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. ❗️ Closed issue [#8](https://github.com/CC21-EDW/strava-connect/issues/8) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
+9. ❗️ Closed issue [#7](https://github.com/CC21-EDW/edw-component/issues/7) in [CC21-EDW/edw-component](https://github.com/CC21-EDW/edw-component)
+10. ❗️ Closed issue [#6](https://github.com/CC21-EDW/strava-connect/issues/6) in [CC21-EDW/strava-connect](https://github.com/CC21-EDW/strava-connect)
 <!--END_SECTION:activity-->
 
 </details>
