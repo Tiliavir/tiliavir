@@ -60,13 +60,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Tiliavirs's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tiliavir&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/tiliavir
 [instagram]: https://instagram.com/tiliavir_
 [linkedin]: https://www.linkedin.com/in/markus-lindenmann/
