@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#81](https://github.com/baloise/digital-signature/issues/81) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-2. 🎉 Merged PR [#96](https://github.com/Tiliavir/mvw-search-index/pull/96) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-3. 🎉 Merged PR [#144](https://github.com/Tiliavir/mvw-website/pull/144) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#109](https://github.com/Tiliavir/wollbach-website/pull/109) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-5. 🗣 Commented on [#81](https://github.com/baloise/digital-signature/issues/81) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-6. 🗣 Commented on [#80](https://github.com/baloise/digital-signature/issues/80) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-7. 🎉 Merged PR [#95](https://github.com/Tiliavir/mvw-search-index/pull/95) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-8. 🎉 Merged PR [#108](https://github.com/Tiliavir/wollbach-website/pull/108) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. 🎉 Merged PR [#143](https://github.com/Tiliavir/mvw-website/pull/143) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-10. 🎉 Merged PR [#14](https://github.com/CC21-EDW/edw-component/pull/14) in [CC21-EDW/edw-component](https://github.com/CC21-EDW/edw-component)
+1. 🎉 Merged PR [#97](https://github.com/Tiliavir/mvw-search-index/pull/97) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🎉 Merged PR [#110](https://github.com/Tiliavir/wollbach-website/pull/110) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#145](https://github.com/Tiliavir/mvw-website/pull/145) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. ❗️ Closed issue [#81](https://github.com/baloise/digital-signature/issues/81) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+5. 🎉 Merged PR [#96](https://github.com/Tiliavir/mvw-search-index/pull/96) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#144](https://github.com/Tiliavir/mvw-website/pull/144) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+7. 🎉 Merged PR [#109](https://github.com/Tiliavir/wollbach-website/pull/109) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+8. 🗣 Commented on [#81](https://github.com/baloise/digital-signature/issues/81) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+9. 🗣 Commented on [#80](https://github.com/baloise/digital-signature/issues/80) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+10. 🎉 Merged PR [#95](https://github.com/Tiliavir/mvw-search-index/pull/95) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 <!--END_SECTION:activity-->
 
 </details>
