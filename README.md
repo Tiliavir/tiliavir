@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/Tiliavir/mvw-search-index/pull/134) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-2. 🎉 Merged PR [#144](https://github.com/Tiliavir/wollbach-website/pull/144) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. 🎉 Merged PR [#179](https://github.com/Tiliavir/mvw-website/pull/179) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#133](https://github.com/Tiliavir/mvw-search-index/pull/133) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. ❗️ Reopened issue [#49](https://github.com/baloise/web-app-utils/issues/49) in [baloise/web-app-utils](https://github.com/baloise/web-app-utils)
-6. 🗣 Commented on [#49](https://github.com/baloise/web-app-utils/issues/49) in [baloise/web-app-utils](https://github.com/baloise/web-app-utils)
-7. ❗️ Closed issue [#49](https://github.com/baloise/web-app-utils/issues/49) in [baloise/web-app-utils](https://github.com/baloise/web-app-utils)
-8. ❗️ Opened issue [#49](https://github.com/baloise/web-app-utils/issues/49) in [baloise/web-app-utils](https://github.com/baloise/web-app-utils)
-9. 🎉 Merged PR [#132](https://github.com/Tiliavir/mvw-search-index/pull/132) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. 🎉 Merged PR [#178](https://github.com/Tiliavir/mvw-website/pull/178) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🎉 Merged PR [#181](https://github.com/Tiliavir/mvw-website/pull/181) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🎉 Merged PR [#146](https://github.com/Tiliavir/wollbach-website/pull/146) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. ❗️ Opened issue [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
+4. 💪 Opened PR [#10](https://github.com/baloise/web-app-ng-utils/pull/10) in [baloise/web-app-ng-utils](https://github.com/baloise/web-app-ng-utils)
+5. 🎉 Merged PR [#135](https://github.com/Tiliavir/mvw-search-index/pull/135) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#145](https://github.com/Tiliavir/wollbach-website/pull/145) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#180](https://github.com/Tiliavir/mvw-website/pull/180) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. 🎉 Merged PR [#134](https://github.com/Tiliavir/mvw-search-index/pull/134) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+9. 🎉 Merged PR [#144](https://github.com/Tiliavir/wollbach-website/pull/144) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+10. 🎉 Merged PR [#179](https://github.com/Tiliavir/mvw-website/pull/179) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 <!--END_SECTION:activity-->
 
 </details>
