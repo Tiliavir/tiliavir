@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/Tiliavir/wollbach-website/pull/149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#184](https://github.com/Tiliavir/mvw-website/pull/184) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 🎉 Merged PR [#138](https://github.com/Tiliavir/mvw-search-index/pull/138) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-4. 🎉 Merged PR [#183](https://github.com/Tiliavir/mvw-website/pull/183) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#148](https://github.com/Tiliavir/wollbach-website/pull/148) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🎉 Merged PR [#137](https://github.com/Tiliavir/mvw-search-index/pull/137) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-7. ❗️ Closed issue [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
-8. 🗣 Commented on [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
-9. 🎉 Merged PR [#10](https://github.com/baloise/web-app-ng-utils/pull/10) in [baloise/web-app-ng-utils](https://github.com/baloise/web-app-ng-utils)
-10. 🎉 Merged PR [#136](https://github.com/Tiliavir/mvw-search-index/pull/136) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+1. ❗️ Opened issue [#1](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/1) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+2. 💪 Opened PR [#119](https://github.com/baloise-incubator/org/pull/119) in [baloise-incubator/org](https://github.com/baloise-incubator/org)
+3. 🎉 Merged PR [#149](https://github.com/Tiliavir/wollbach-website/pull/149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+4. 🎉 Merged PR [#184](https://github.com/Tiliavir/mvw-website/pull/184) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#138](https://github.com/Tiliavir/mvw-search-index/pull/138) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#183](https://github.com/Tiliavir/mvw-website/pull/183) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+7. 🎉 Merged PR [#148](https://github.com/Tiliavir/wollbach-website/pull/148) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+8. 🎉 Merged PR [#137](https://github.com/Tiliavir/mvw-search-index/pull/137) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+9. ❗️ Closed issue [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
+10. 🗣 Commented on [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
 <!--END_SECTION:activity-->
 
 </details>
