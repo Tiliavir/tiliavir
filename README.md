@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/1) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
-2. 💪 Opened PR [#119](https://github.com/baloise-incubator/org/pull/119) in [baloise-incubator/org](https://github.com/baloise-incubator/org)
-3. 🎉 Merged PR [#149](https://github.com/Tiliavir/wollbach-website/pull/149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. 🎉 Merged PR [#184](https://github.com/Tiliavir/mvw-website/pull/184) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#138](https://github.com/Tiliavir/mvw-search-index/pull/138) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-6. 🎉 Merged PR [#183](https://github.com/Tiliavir/mvw-website/pull/183) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🎉 Merged PR [#148](https://github.com/Tiliavir/wollbach-website/pull/148) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. 🎉 Merged PR [#137](https://github.com/Tiliavir/mvw-search-index/pull/137) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-9. ❗️ Closed issue [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
-10. 🗣 Commented on [#656](https://github.com/baloise/design-system/issues/656) in [baloise/design-system](https://github.com/baloise/design-system)
+1. 🎉 Merged PR [#2](https://github.com/Baloise-CodeCamp-2022/PokerBot/pull/2) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+2. 🎉 Merged PR [#150](https://github.com/Tiliavir/wollbach-website/pull/150) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#185](https://github.com/Tiliavir/mvw-website/pull/185) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🎉 Merged PR [#140](https://github.com/Tiliavir/mvw-search-index/pull/140) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+5. ❗️ Opened issue [#1](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/1) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+6. 💪 Opened PR [#119](https://github.com/baloise-incubator/org/pull/119) in [baloise-incubator/org](https://github.com/baloise-incubator/org)
+7. 🎉 Merged PR [#149](https://github.com/Tiliavir/wollbach-website/pull/149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+8. 🎉 Merged PR [#184](https://github.com/Tiliavir/mvw-website/pull/184) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+9. 🎉 Merged PR [#138](https://github.com/Tiliavir/mvw-search-index/pull/138) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+10. 🎉 Merged PR [#183](https://github.com/Tiliavir/mvw-website/pull/183) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 <!--END_SECTION:activity-->
 
 </details>
