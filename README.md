@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/Tiliavir/wollbach-website/pull/155) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#190](https://github.com/Tiliavir/mvw-website/pull/190) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 🎉 Merged PR [#144](https://github.com/Tiliavir/mvw-search-index/pull/144) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-4. 🎉 Merged PR [#143](https://github.com/Tiliavir/mvw-search-index/pull/143) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🎉 Merged PR [#154](https://github.com/Tiliavir/wollbach-website/pull/154) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🎉 Merged PR [#189](https://github.com/Tiliavir/mvw-website/pull/189) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🎉 Merged PR [#142](https://github.com/Tiliavir/mvw-search-index/pull/142) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-8. 🗣 Commented on [#4](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/4) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
-9. ❗️ Opened issue [#4](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/4) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
-10. ❗️ Opened issue [#3](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/3) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+1. 🎉 Merged PR [#145](https://github.com/Tiliavir/mvw-search-index/pull/145) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🎉 Merged PR [#155](https://github.com/Tiliavir/wollbach-website/pull/155) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#190](https://github.com/Tiliavir/mvw-website/pull/190) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🎉 Merged PR [#144](https://github.com/Tiliavir/mvw-search-index/pull/144) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+5. 🎉 Merged PR [#143](https://github.com/Tiliavir/mvw-search-index/pull/143) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#154](https://github.com/Tiliavir/wollbach-website/pull/154) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#189](https://github.com/Tiliavir/mvw-website/pull/189) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. 🎉 Merged PR [#142](https://github.com/Tiliavir/mvw-search-index/pull/142) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+9. 🗣 Commented on [#4](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/4) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+10. ❗️ Opened issue [#4](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/4) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
 <!--END_SECTION:activity-->
 
 </details>
