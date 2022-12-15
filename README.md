@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/Tiliavir/mvw-website/pull/196) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. ❌ Closed PR [#160](https://github.com/Tiliavir/wollbach-website/pull/160) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. ❌ Closed PR [#195](https://github.com/Tiliavir/mvw-website/pull/195) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#148](https://github.com/Tiliavir/mvw-search-index/pull/148) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🎉 Merged PR [#194](https://github.com/Tiliavir/mvw-website/pull/194) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. 🎉 Merged PR [#159](https://github.com/Tiliavir/wollbach-website/pull/159) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. 🗣 Commented on [#88](https://github.com/baloise/digital-signature/issues/88) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-8. ❗️ Opened issue [#1](https://github.com/we-play-ch/we-play-website/issues/1) in [we-play-ch/we-play-website](https://github.com/we-play-ch/we-play-website)
-9. ❌ Closed PR [#146](https://github.com/Tiliavir/mvw-search-index/pull/146) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. ❌ Closed PR [#139](https://github.com/Tiliavir/mvw-search-index/pull/139) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+1. 🎉 Merged PR [#149](https://github.com/Tiliavir/mvw-search-index/pull/149) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🎉 Merged PR [#197](https://github.com/Tiliavir/mvw-website/pull/197) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 🎉 Merged PR [#161](https://github.com/Tiliavir/wollbach-website/pull/161) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+4. ❗️ Closed issue [#10](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/10) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+5. ❗️ Closed issue [#336](https://github.com/baloise/open-source/issues/336) in [baloise/open-source](https://github.com/baloise/open-source)
+6. 🗣 Commented on [#336](https://github.com/baloise/open-source/issues/336) in [baloise/open-source](https://github.com/baloise/open-source)
+7. 🗣 Commented on [#10](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/10) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+8. 🗣 Commented on [#10](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/10) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+9. 🗣 Commented on [#10](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/10) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
+10. ❗️ Opened issue [#10](https://github.com/Baloise-CodeCamp-2022/PokerBot/issues/10) in [Baloise-CodeCamp-2022/PokerBot](https://github.com/Baloise-CodeCamp-2022/PokerBot)
 <!--END_SECTION:activity-->
 
 </details>
