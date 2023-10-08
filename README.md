@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/Tiliavir/mvw-search-index/pull/186) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-2. 🚀 Published release [23.09.16-1](https://github.com/Tiliavir/mvw-website/releases/tag/23.09.16-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 🚀 Published release [23.09.16](https://github.com/Tiliavir/mvw-website/releases/tag/23.09.16) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#185](https://github.com/Tiliavir/mvw-search-index/pull/185) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🚀 Published release [Release 7.0.6](https://github.com/baloise/digital-signature/releases/tag/7.0.6) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-6. 🎉 Merged PR [#105](https://github.com/baloise/digital-signature/pull/105) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-7. 💪 Opened PR [#105](https://github.com/baloise/digital-signature/pull/105) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-8. 🎉 Merged PR [#88](https://github.com/baloise/digital-signature/pull/88) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
-9. 🎉 Merged PR [#184](https://github.com/Tiliavir/mvw-search-index/pull/184) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. 🎉 Merged PR [#183](https://github.com/Tiliavir/mvw-search-index/pull/183) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+1. 🗣 Commented on [#106](https://github.com/baloise/digital-signature/issues/106#issuecomment-1750805577) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+2. 🔒 Closed issue [#104](https://github.com/baloise/digital-signature/issues/104) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+3. 🗣 Commented on [#104](https://github.com/baloise/digital-signature/issues/104#issuecomment-1750800774) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+4. 🔒 Closed issue [#103](https://github.com/baloise/digital-signature/issues/103) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+5. 🗣 Commented on [#103](https://github.com/baloise/digital-signature/issues/103#issuecomment-1750800314) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+6. 🔒 Closed issue [#102](https://github.com/baloise/digital-signature/issues/102) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+7. 🗣 Commented on [#102](https://github.com/baloise/digital-signature/issues/102#issuecomment-1750798729) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+8. 🗣 Commented on [#100](https://github.com/baloise/digital-signature/issues/100#issuecomment-1750795999) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+9. 🔒 Closed issue [#100](https://github.com/baloise/digital-signature/issues/100) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
+10. 🔒 Closed issue [#82](https://github.com/baloise/digital-signature/issues/82) in [baloise/digital-signature](https://github.com/baloise/digital-signature)
 <!--END_SECTION:activity-->
 
 </details>
