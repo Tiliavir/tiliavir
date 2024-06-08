@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2024.04.27](https://github.com/Tiliavir/rezepte/releases/tag/2024.04.27) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-2. 🎉 Merged PR [#220](https://github.com/Tiliavir/mvw-search-index/pull/220) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-3. 🚀 Published release [24.05.19](https://github.com/Tiliavir/mvw-website/releases/tag/24.05.19) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#219](https://github.com/Tiliavir/mvw-search-index/pull/219) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🎉 Merged PR [#217](https://github.com/Tiliavir/mvw-search-index/pull/217) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-6. 🎉 Merged PR [#218](https://github.com/Tiliavir/mvw-search-index/pull/218) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-7. 🚀 Published release [24.04.26](https://github.com/Tiliavir/mvw-website/releases/tag/24.04.26) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-8. 🎉 Merged PR [#216](https://github.com/Tiliavir/mvw-search-index/pull/216) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-9. 🎉 Merged PR [#215](https://github.com/Tiliavir/mvw-search-index/pull/215) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. 🚀 Published release [24.04.14](https://github.com/Tiliavir/mvw-website/releases/tag/24.04.14) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [2024.06.02](https://github.com/Tiliavir/rezepte/releases/tag/2024.06.02) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+2. 🚀 Published release [2024.04.27](https://github.com/Tiliavir/rezepte/releases/tag/2024.04.27) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+3. 🎉 Merged PR [#220](https://github.com/Tiliavir/mvw-search-index/pull/220) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+4. 🚀 Published release [24.05.19](https://github.com/Tiliavir/mvw-website/releases/tag/24.05.19) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#219](https://github.com/Tiliavir/mvw-search-index/pull/219) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🎉 Merged PR [#217](https://github.com/Tiliavir/mvw-search-index/pull/217) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+7. 🎉 Merged PR [#218](https://github.com/Tiliavir/mvw-search-index/pull/218) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+8. 🚀 Published release [24.04.26](https://github.com/Tiliavir/mvw-website/releases/tag/24.04.26) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+9. 🎉 Merged PR [#216](https://github.com/Tiliavir/mvw-search-index/pull/216) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+10. 🎉 Merged PR [#215](https://github.com/Tiliavir/mvw-search-index/pull/215) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 <!--END_SECTION:activity-->
 
 </details>
