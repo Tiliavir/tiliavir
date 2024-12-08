@@ -46,16 +46,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#285](https://github.com/Tiliavir/mvw-website/pull/285) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. ❌ Closed PR [#247](https://github.com/Tiliavir/wollbach-website/pull/247) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. ❌ Closed PR [#284](https://github.com/Tiliavir/mvw-website/pull/284) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. ❌ Closed PR [#246](https://github.com/Tiliavir/wollbach-website/pull/246) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-5. ❌ Closed PR [#283](https://github.com/Tiliavir/mvw-website/pull/283) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. ❌ Closed PR [#245](https://github.com/Tiliavir/wollbach-website/pull/245) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. ❌ Closed PR [#282](https://github.com/Tiliavir/mvw-website/pull/282) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-8. ❌ Closed PR [#244](https://github.com/Tiliavir/wollbach-website/pull/244) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. ❌ Closed PR [#248](https://github.com/Tiliavir/wollbach-website/pull/248) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-10. ❌ Closed PR [#281](https://github.com/Tiliavir/mvw-website/pull/281) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [24.12.04](https://github.com/Tiliavir/mvw-website/releases/tag/24.12.04) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🔓 Reopened issue [#56](https://github.com/caressofsteel/hugo-story/issues/56) in [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story)
+3. 🔒 Closed issue [#56](https://github.com/caressofsteel/hugo-story/issues/56) in [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story)
+4. ❗ Opened issue [#56](https://github.com/caressofsteel/hugo-story/issues/56) in [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story)
+5. ❌ Closed PR [#285](https://github.com/Tiliavir/mvw-website/pull/285) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. ❌ Closed PR [#247](https://github.com/Tiliavir/wollbach-website/pull/247) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. ❌ Closed PR [#284](https://github.com/Tiliavir/mvw-website/pull/284) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. ❌ Closed PR [#246](https://github.com/Tiliavir/wollbach-website/pull/246) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+9. ❌ Closed PR [#283](https://github.com/Tiliavir/mvw-website/pull/283) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+10. ❌ Closed PR [#245](https://github.com/Tiliavir/wollbach-website/pull/245) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 <!--END_SECTION:activity-->
 
 </details>
