@@ -45,16 +45,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/Tiliavir/wollbach-website/pull/261) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#298](https://github.com/Tiliavir/mvw-website/pull/298) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. ❌ Closed PR [#260](https://github.com/Tiliavir/wollbach-website/pull/260) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. ❌ Closed PR [#297](https://github.com/Tiliavir/mvw-website/pull/297) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. ❌ Closed PR [#259](https://github.com/Tiliavir/wollbach-website/pull/259) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. ❌ Closed PR [#296](https://github.com/Tiliavir/mvw-website/pull/296) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🚀 Published release [2025.02.03](https://github.com/Tiliavir/mvw-website/releases/tag/2025.02.03) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-8. 🚀 Published release [2025.02.03](https://github.com/Tiliavir/rezepte/releases/tag/2025.02.03) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-9. 🚀 Published release [2025.02.01](https://github.com/Tiliavir/rezepte/releases/tag/2025.02.01) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-10. 🎉 Merged PR [#258](https://github.com/Tiliavir/wollbach-website/pull/258) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🚀 Published release [25.03.01](https://github.com/Tiliavir/mvw-website/releases/tag/25.03.01) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🚀 Published release [25.02.28-1](https://github.com/Tiliavir/mvw-website/releases/tag/25.02.28-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 🚀 Published release [25.02.28](https://github.com/Tiliavir/mvw-website/releases/tag/25.02.28) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🎉 Merged PR [#262](https://github.com/Tiliavir/wollbach-website/pull/262) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+5. 🎉 Merged PR [#299](https://github.com/Tiliavir/mvw-website/pull/299) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. 🎉 Merged PR [#261](https://github.com/Tiliavir/wollbach-website/pull/261) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#298](https://github.com/Tiliavir/mvw-website/pull/298) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. ❌ Closed PR [#260](https://github.com/Tiliavir/wollbach-website/pull/260) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+9. ❌ Closed PR [#297](https://github.com/Tiliavir/mvw-website/pull/297) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+10. ❌ Closed PR [#259](https://github.com/Tiliavir/wollbach-website/pull/259) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 <!--END_SECTION:activity-->
 
 </details>
