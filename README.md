@@ -45,15 +45,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#301](https://github.com/Tiliavir/mvw-website/pull/301) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. ❌ Closed PR [#300](https://github.com/Tiliavir/mvw-website/pull/300) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 🎉 Merged PR [#264](https://github.com/Tiliavir/wollbach-website/pull/264) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. ❌ Closed PR [#263](https://github.com/Tiliavir/wollbach-website/pull/263) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-5. 🚀 Published release [25.03.14-1](https://github.com/Tiliavir/wollbach-website/releases/tag/25.03.14-1) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🚀 Published release [25.03.14](https://github.com/Tiliavir/wollbach-website/releases/tag/25.03.14) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. 🗣 Commented on [#4](https://github.com/Tiliavir/wollbach-website/issues/4#issuecomment-2725247547) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. 🔒 Closed issue [#4](https://github.com/Tiliavir/wollbach-website/issues/4) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. 🚀 Published release [25.03.01](https://github.com/Tiliavir/mvw-website/releases/tag/25.03.01) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. ❌ Closed PR [#267](https://github.com/Tiliavir/wollbach-website/pull/267) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. ❌ Closed PR [#266](https://github.com/Tiliavir/wollbach-website/pull/266) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#268](https://github.com/Tiliavir/wollbach-website/pull/268) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+4. ❌ Closed PR [#265](https://github.com/Tiliavir/wollbach-website/pull/265) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+5. 🎉 Merged PR [#305](https://github.com/Tiliavir/mvw-website/pull/305) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. ❌ Closed PR [#304](https://github.com/Tiliavir/mvw-website/pull/304) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+7. ❌ Closed PR [#303](https://github.com/Tiliavir/mvw-website/pull/303) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+8. ❌ Closed PR [#302](https://github.com/Tiliavir/mvw-website/pull/302) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+9. 🚀 Published release [25.04.12](https://github.com/Tiliavir/mvw-website/releases/tag/25.04.12) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 10. 🚀 Published release [25.02.28-1](https://github.com/Tiliavir/mvw-website/releases/tag/25.02.28-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 <!--END_SECTION:activity-->
 
