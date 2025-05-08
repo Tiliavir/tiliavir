@@ -45,16 +45,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [25.04.27-7](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-7) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-2. 🚀 Published release [25.04.27-5](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-5) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-3. 🚀 Published release [25.04.27-4](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-4) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-4. 🚀 Published release [25.04.27-3](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-3) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-5. 🚀 Published release [25.04.27-2](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-2) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-6. 🚀 Published release [25.04.27-1](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27-1) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-7. 🚀 Published release [25.04.27](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/25.04.27) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-8. ❌ Closed PR [#238](https://github.com/Tiliavir/mvw-search-index/pull/238) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-9. 🎉 Merged PR [#239](https://github.com/Tiliavir/mvw-search-index/pull/239) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-10. 💪 Opened PR [#239](https://github.com/Tiliavir/mvw-search-index/pull/239) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+1. 🚀 Published release [25.05.06](https://github.com/Tiliavir/mvw-website/releases/tag/25.05.06) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🎉 Merged PR [#31](https://github.com/Tiliavir/janine-lindenmann.de/pull/31) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+3. 🎉 Merged PR [#25](https://github.com/Tiliavir/janine-lindenmann.de/pull/25) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+4. 🗣 Commented on [#31](https://github.com/Tiliavir/janine-lindenmann.de/pull/31#issuecomment-2852292221) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+5. 🗣 Commented on [#25](https://github.com/Tiliavir/janine-lindenmann.de/pull/25#issuecomment-2852292079) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+6. 🎉 Merged PR [#303](https://github.com/Tiliavir/wollbach-website/pull/303) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#302](https://github.com/Tiliavir/wollbach-website/pull/302) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+8. 🎉 Merged PR [#301](https://github.com/Tiliavir/wollbach-website/pull/301) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+9. 🎉 Merged PR [#300](https://github.com/Tiliavir/wollbach-website/pull/300) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+10. 🎉 Merged PR [#299](https://github.com/Tiliavir/wollbach-website/pull/299) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 <!--END_SECTION:activity-->
 
 </details>
