@@ -45,16 +45,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#322](https://github.com/Tiliavir/wollbach-website/pull/322) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#318](https://github.com/Tiliavir/wollbach-website/pull/318) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. 🎉 Merged PR [#314](https://github.com/Tiliavir/wollbach-website/pull/314) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. 🎉 Merged PR [#353](https://github.com/Tiliavir/mvw-website/pull/353) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#315](https://github.com/Tiliavir/wollbach-website/pull/315) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🎉 Merged PR [#317](https://github.com/Tiliavir/wollbach-website/pull/317) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. 🎉 Merged PR [#319](https://github.com/Tiliavir/wollbach-website/pull/319) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. 🎉 Merged PR [#320](https://github.com/Tiliavir/wollbach-website/pull/320) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. 🎉 Merged PR [#321](https://github.com/Tiliavir/wollbach-website/pull/321) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-10. 🎉 Merged PR [#323](https://github.com/Tiliavir/wollbach-website/pull/323) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🎉 Merged PR [#16](https://github.com/Tiliavir/rezepte/pull/16) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+2. 🎉 Merged PR [#15](https://github.com/Tiliavir/rezepte/pull/15) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+3. 🎉 Merged PR [#14](https://github.com/Tiliavir/rezepte/pull/14) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+4. 🎉 Merged PR [#13](https://github.com/Tiliavir/rezepte/pull/13) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+5. 🎉 Merged PR [#12](https://github.com/Tiliavir/rezepte/pull/12) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+6. 🎉 Merged PR [#11](https://github.com/Tiliavir/rezepte/pull/11) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+7. 🎉 Merged PR [#10](https://github.com/Tiliavir/rezepte/pull/10) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+8. 🎉 Merged PR [#9](https://github.com/Tiliavir/rezepte/pull/9) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+9. 🎉 Merged PR [#8](https://github.com/Tiliavir/rezepte/pull/8) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+10. 🎉 Merged PR [#7](https://github.com/Tiliavir/rezepte/pull/7) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
 <!--END_SECTION:activity-->
 
 </details>
