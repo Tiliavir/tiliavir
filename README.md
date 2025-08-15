@@ -45,16 +45,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#395](https://github.com/Tiliavir/wollbach-website/pull/395) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#116](https://github.com/Tiliavir/janine-lindenmann.de/pull/116) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-3. 🎉 Merged PR [#426](https://github.com/Tiliavir/mvw-website/pull/426) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🎉 Merged PR [#122](https://github.com/Tiliavir/janine-lindenmann.de/pull/122) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-5. 🎉 Merged PR [#121](https://github.com/Tiliavir/janine-lindenmann.de/pull/121) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-6. 🎉 Merged PR [#120](https://github.com/Tiliavir/janine-lindenmann.de/pull/120) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-7. 🎉 Merged PR [#119](https://github.com/Tiliavir/janine-lindenmann.de/pull/119) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-8. 🗣 Commented on [#118](https://github.com/Tiliavir/janine-lindenmann.de/pull/118#issuecomment-3151098851) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-9. 🎉 Merged PR [#117](https://github.com/Tiliavir/janine-lindenmann.de/pull/117) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-10. 🗣 Commented on [#116](https://github.com/Tiliavir/janine-lindenmann.de/pull/116#issuecomment-3151096913) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 🎉 Merged PR [#331](https://github.com/Tiliavir/mvw-search-index/pull/331) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🎉 Merged PR [#69](https://github.com/Tiliavir/rezepte/pull/69) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+3. 🎉 Merged PR [#68](https://github.com/Tiliavir/rezepte/pull/68) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+4. 🎉 Merged PR [#67](https://github.com/Tiliavir/rezepte/pull/67) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+5. 🎉 Merged PR [#66](https://github.com/Tiliavir/rezepte/pull/66) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+6. 🎉 Merged PR [#65](https://github.com/Tiliavir/rezepte/pull/65) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+7. 🎉 Merged PR [#62](https://github.com/Tiliavir/rezepte/pull/62) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+8. 🎉 Merged PR [#63](https://github.com/Tiliavir/rezepte/pull/63) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+9. 🎉 Merged PR [#64](https://github.com/Tiliavir/rezepte/pull/64) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+10. 🎉 Merged PR [#335](https://github.com/Tiliavir/mvw-search-index/pull/335) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 <!--END_SECTION:activity-->
 
 </details>
