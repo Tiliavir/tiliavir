@@ -45,16 +45,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#429](https://github.com/Tiliavir/wollbach-website/pull/429) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#426](https://github.com/Tiliavir/wollbach-website/pull/426) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. 🗣 Commented on [#429](https://github.com/Tiliavir/wollbach-website/pull/429#issuecomment-3250289015) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. 🗣 Commented on [#429](https://github.com/Tiliavir/wollbach-website/pull/429#issuecomment-3250274274) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-5. 🗣 Commented on [#426](https://github.com/Tiliavir/wollbach-website/pull/426#issuecomment-3250274121) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🎉 Merged PR [#449](https://github.com/Tiliavir/mvw-website/pull/449) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🎉 Merged PR [#425](https://github.com/Tiliavir/wollbach-website/pull/425) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. 🎉 Merged PR [#427](https://github.com/Tiliavir/wollbach-website/pull/427) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. 🎉 Merged PR [#428](https://github.com/Tiliavir/wollbach-website/pull/428) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-10. 🎉 Merged PR [#430](https://github.com/Tiliavir/wollbach-website/pull/430) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🎉 Merged PR [#463](https://github.com/Tiliavir/mvw-website/pull/463) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🎉 Merged PR [#433](https://github.com/Tiliavir/wollbach-website/pull/433) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#458](https://github.com/Tiliavir/mvw-website/pull/458) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🎉 Merged PR [#159](https://github.com/Tiliavir/janine-lindenmann.de/pull/159) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+5. 🎉 Merged PR [#462](https://github.com/Tiliavir/mvw-website/pull/462) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. 🎉 Merged PR [#432](https://github.com/Tiliavir/wollbach-website/pull/432) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#434](https://github.com/Tiliavir/wollbach-website/pull/434) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+8. 🎉 Merged PR [#435](https://github.com/Tiliavir/wollbach-website/pull/435) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+9. 🎉 Merged PR [#436](https://github.com/Tiliavir/wollbach-website/pull/436) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+10. 🎉 Merged PR [#437](https://github.com/Tiliavir/wollbach-website/pull/437) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 <!--END_SECTION:activity-->
 
 </details>
