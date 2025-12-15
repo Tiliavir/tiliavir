@@ -45,9 +45,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [25.12.08](https://github.com/Tiliavir/mvw-website/releases/tag/25.12.08) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. ❌ Merged PR [#593](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 💪 Opened PR [#593](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [25.12.14](https://github.com/Tiliavir/mvw-website/releases/tag/25.12.14) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. ❌ Merged PR [#601](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 💪 Opened PR [#601](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 4. 🚀 Published release [25.12.07](https://github.com/Tiliavir/mvw-website/releases/tag/25.12.07) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 5. ❌ Merged PR [#592](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 6. 💪 Opened PR [#592](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
