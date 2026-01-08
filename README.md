@@ -45,10 +45,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#616](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. 💪 Opened PR [#616](undefined) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. ❌ Merged PR [#589](undefined) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. ❌ Merged PR [#314](undefined) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 🗣 Commented on [#626](https://github.com/Tiliavir/wollbach-website/pull/626#issuecomment-3720699263) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. 🚀 Published release [26.01.03](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.01.03) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+3. 🗣 Commented on [#642](https://github.com/Tiliavir/mvw-website/pull/642#issuecomment-3706986987) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🚀 Published release [26.01.01](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.01.01) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 5. 💪 Opened PR [#589](undefined) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 6. 💪 Opened PR [#314](undefined) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 7. 🗣 Commented on [#312](https://github.com/Tiliavir/janine-lindenmann.de/pull/312#issuecomment-3661764796) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
