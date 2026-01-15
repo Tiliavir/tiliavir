@@ -45,8 +45,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#626](https://github.com/Tiliavir/wollbach-website/pull/626#issuecomment-3720699263) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🚀 Published release [26.01.03](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.01.03) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3747892210) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3746143679) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 3. 🗣 Commented on [#642](https://github.com/Tiliavir/mvw-website/pull/642#issuecomment-3706986987) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 4. 🚀 Published release [26.01.01](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.01.01) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 5. 💪 Opened PR [#589](undefined) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
