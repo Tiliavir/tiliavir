@@ -45,12 +45,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3747892210) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-2. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3746143679) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-3. 🗣 Commented on [#642](https://github.com/Tiliavir/mvw-website/pull/642#issuecomment-3706986987) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🚀 Published release [26.01.01](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.01.01) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-5. 💪 Opened PR [#589](undefined) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 💪 Opened PR [#314](undefined) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 🚀 Published release [25.01.21](https://github.com/Tiliavir/wollbach-website/releases/tag/25.01.21) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. 🗣 Commented on [#366](https://github.com/Tiliavir/janine-lindenmann.de/pull/366#issuecomment-3761963198) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+3. 🗣 Commented on [#367](https://github.com/Tiliavir/janine-lindenmann.de/pull/367#issuecomment-3761267122) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+4. 🗣 Commented on [#366](https://github.com/Tiliavir/janine-lindenmann.de/pull/366#issuecomment-3761265905) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+5. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3747892210) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. 🗣 Commented on [#441](https://github.com/Tiliavir/mvw-search-index/pull/441#issuecomment-3746143679) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 7. 🗣 Commented on [#312](https://github.com/Tiliavir/janine-lindenmann.de/pull/312#issuecomment-3661764796) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 8. 💪 Opened PR [#414](undefined) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 9. 🎉 Merged PR [#464](https://github.com/Tiliavir/wollbach-website/pull/464) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
