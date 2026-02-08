@@ -45,7 +45,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [25.01.21](https://github.com/Tiliavir/wollbach-website/releases/tag/25.01.21) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🚀 Published release [26.02.04](https://github.com/Tiliavir/mvw-website/releases/tag/26.02.04) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 2. 🗣 Commented on [#366](https://github.com/Tiliavir/janine-lindenmann.de/pull/366#issuecomment-3761963198) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 3. 🗣 Commented on [#367](https://github.com/Tiliavir/janine-lindenmann.de/pull/367#issuecomment-3761267122) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 4. 🗣 Commented on [#366](https://github.com/Tiliavir/janine-lindenmann.de/pull/366#issuecomment-3761265905) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
