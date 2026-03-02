@@ -1,8 +1,6 @@
 ## Hi there, I'm Markus - aka tiliavir 👋
 
-- 👔 I’m working for [Baloise][baloise]
-- 🌱 I’m currently learning Ansible, Go, Kafka, Spring and Gradle
-- 💬 Ask me about what ever you want to know ;-)
+- 👔 I’m working for [Helvetia][helvetia]
 - 🍲 I [love to cook][recipes] and even more to eat
 - 📯 I [play the french horn][mvw]
 - 🌳 I (try to) grow bonsais
@@ -63,6 +61,6 @@
 [instagram]: https://instagram.com/tiliavir_
 [linkedin]: https://www.linkedin.com/in/markus-lindenmann/
 [recipes]: https://tiliavir.github.io/rezepte/
-[baloise]: https://www.baloise.ch
+[helvetia]: https://www.helvetia-baloise.com/
 [wollbach]: https://www.wollbach.info
 [mvw]: https://www.mv-wollbach.de
