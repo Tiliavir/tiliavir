@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#277](https://github.com/Tiliavir/rezepte/pull/277#issuecomment-3977264370) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-2. 🚀 Published release [v0.3.0](https://github.com/Tiliavir/mvw-cashier-app/releases/tag/v0.3.0) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-3. 🔒 Closed issue [#12](https://github.com/Tiliavir/mvw-cashier-app/issues/12) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-4. 🗣 Commented on [#277](https://github.com/Tiliavir/rezepte/pull/277#issuecomment-3977252713) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-5. 🔒 Closed issue [#10](https://github.com/Tiliavir/mvw-cashier-app/issues/10) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-6. ℹ️ Assigned issue [#12](https://github.com/Tiliavir/mvw-cashier-app/issues/12) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-7. ℹ️ Assigned issue [#12](https://github.com/Tiliavir/mvw-cashier-app/issues/12) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-8. ❗ Opened issue [#12](https://github.com/Tiliavir/mvw-cashier-app/issues/12) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-9. 🚀 Published release [v0.2.0](https://github.com/Tiliavir/mvw-cashier-app/releases/tag/v0.2.0) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-10. ℹ️ Assigned issue [#10](https://github.com/Tiliavir/mvw-cashier-app/issues/10) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+1. 🗣 Commented on [#505](https://github.com/Tiliavir/mvw-search-index/pull/505#issuecomment-4002205663) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. ❗ Opened issue [#34](https://github.com/Tiliavir/mvw-cashier-app/issues/34) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+3. 🚀 Published release [v0.9.4](https://github.com/Tiliavir/mvw-cashier-app/releases/tag/v0.9.4) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+4. 🔒 Closed issue [#32](https://github.com/Tiliavir/mvw-cashier-app/issues/32) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+5. ℹ️ Assigned issue [#32](https://github.com/Tiliavir/mvw-cashier-app/issues/32) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+6. ℹ️ Assigned issue [#32](https://github.com/Tiliavir/mvw-cashier-app/issues/32) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+7. ❗ Opened issue [#32](https://github.com/Tiliavir/mvw-cashier-app/issues/32) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+8. 🗣 Commented on [#753](https://github.com/Tiliavir/mvw-website/pull/753#issuecomment-3992410859) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+9. 🚀 Published release [v0.9.3](https://github.com/Tiliavir/mvw-cashier-app/releases/tag/v0.9.3) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+10. 🔒 Closed issue [#30](https://github.com/Tiliavir/mvw-cashier-app/issues/30) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
 <!--END_SECTION:activity-->
 
 </details>
