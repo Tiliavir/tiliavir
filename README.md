@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [26.03.14](https://github.com/Tiliavir/wollbach-website/releases/tag/26.03.14) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#765](https://github.com/Tiliavir/wollbach-website/pull/765) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. 💪 Opened PR [#765](https://github.com/Tiliavir/wollbach-website/pull/765) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. 🗣 Commented on [#518](https://github.com/Tiliavir/mvw-search-index/pull/518#issuecomment-4036356276) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. 🚀 Published release [26.03.10](https://github.com/Tiliavir/wollbach-website/releases/tag/26.03.10) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-6. 🔒 Closed issue [#757](https://github.com/Tiliavir/wollbach-website/issues/757) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. ℹ️ Assigned issue [#757](https://github.com/Tiliavir/wollbach-website/issues/757) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. ℹ️ Assigned issue [#757](https://github.com/Tiliavir/wollbach-website/issues/757) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-9. ❗ Opened issue [#757](https://github.com/Tiliavir/wollbach-website/issues/757) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-10. 🔒 Closed issue [#30](https://github.com/Tiliavir/mvw-cashier-app/issues/30) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+1. 🚀 Published release [26.03.21-1](https://github.com/Tiliavir/mvw-website/releases/tag/26.03.21-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🎉 Merged PR [#797](https://github.com/Tiliavir/mvw-website/pull/797) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 💪 Opened PR [#797](https://github.com/Tiliavir/mvw-website/pull/797) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🚀 Published release [26.03.21](https://github.com/Tiliavir/mvw-website/releases/tag/26.03.21) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#796](https://github.com/Tiliavir/mvw-website/pull/796) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. 🔒 Closed issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+7. ℹ️ Assigned issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+8. ℹ️ Assigned issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+9. ❗ Opened issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+10. 💪 Opened PR [#796](https://github.com/Tiliavir/mvw-website/pull/796) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 <!--END_SECTION:activity-->
 
 </details>
