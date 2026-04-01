@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [26.03.21-1](https://github.com/Tiliavir/mvw-website/releases/tag/26.03.21-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. 🎉 Merged PR [#797](https://github.com/Tiliavir/mvw-website/pull/797) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 💪 Opened PR [#797](https://github.com/Tiliavir/mvw-website/pull/797) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🚀 Published release [26.03.21](https://github.com/Tiliavir/mvw-website/releases/tag/26.03.21) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#796](https://github.com/Tiliavir/mvw-website/pull/796) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. 🔒 Closed issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-7. ℹ️ Assigned issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-8. ℹ️ Assigned issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-9. ❗ Opened issue [#15](https://github.com/Tiliavir/opencode-spaetzle/issues/15) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-10. 💪 Opened PR [#796](https://github.com/Tiliavir/mvw-website/pull/796) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [v0.0.5](https://github.com/Tiliavir/opencode-spaetzle/releases/tag/v0.0.5) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+2. 🔒 Closed issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+3. 🚀 Published release [v0.0.4](https://github.com/Tiliavir/opencode-spaetzle/releases/tag/v0.0.4) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+4. 🔒 Closed issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+5. ℹ️ Assigned issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+6. ℹ️ Assigned issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+7. ❗ Opened issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+10. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 <!--END_SECTION:activity-->
 
 </details>
