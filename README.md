@@ -43,12 +43,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.5](https://github.com/Tiliavir/opencode-spaetzle/releases/tag/v0.0.5) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-2. 🔒 Closed issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-3. 🚀 Published release [v0.0.4](https://github.com/Tiliavir/opencode-spaetzle/releases/tag/v0.0.4) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-4. 🔒 Closed issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-5. ℹ️ Assigned issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-6. ℹ️ Assigned issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+1. 🗣 Commented on [#824](https://github.com/Tiliavir/wollbach-website/pull/824#issuecomment-4190732278) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. 🗣 Commented on [#819](https://github.com/Tiliavir/wollbach-website/pull/819#issuecomment-4190730692) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#541](https://github.com/Tiliavir/mvw-search-index/pull/541) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+4. 💪 Opened PR [#541](https://github.com/Tiliavir/mvw-search-index/pull/541) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+5. ❌ Closed PR [#538](https://github.com/Tiliavir/mvw-search-index/pull/538) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+6. ❌ Closed PR [#540](https://github.com/Tiliavir/mvw-search-index/pull/540) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 7. ❗ Opened issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
