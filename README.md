@@ -43,13 +43,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#824](https://github.com/Tiliavir/wollbach-website/pull/824#issuecomment-4190732278) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🗣 Commented on [#819](https://github.com/Tiliavir/wollbach-website/pull/819#issuecomment-4190730692) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-3. 🎉 Merged PR [#541](https://github.com/Tiliavir/mvw-search-index/pull/541) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-4. 💪 Opened PR [#541](https://github.com/Tiliavir/mvw-search-index/pull/541) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-5. ❌ Closed PR [#538](https://github.com/Tiliavir/mvw-search-index/pull/538) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-6. ❌ Closed PR [#540](https://github.com/Tiliavir/mvw-search-index/pull/540) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-7. ❗ Opened issue [#19](https://github.com/Tiliavir/opencode-spaetzle/issues/19) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+1. 🗣 Commented on [#578](https://github.com/Tiliavir/mvw-search-index/pull/578#issuecomment-4316215305) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🚀 Published release [26.04.24-1](https://github.com/Tiliavir/mvw-website/releases/tag/26.04.24-1) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 🎉 Merged PR [#890](https://github.com/Tiliavir/mvw-website/pull/890) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 💪 Opened PR [#890](https://github.com/Tiliavir/mvw-website/pull/890) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🚀 Published release [26.04.24](https://github.com/Tiliavir/mvw-website/releases/tag/26.04.24) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. 🎉 Merged PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+7. 💪 Opened PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 10. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
