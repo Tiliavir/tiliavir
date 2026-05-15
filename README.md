@@ -43,7 +43,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/Tiliavir/rezepte/pull/383#issuecomment-4394376793) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+1. 🗣 Commented on [#915](https://github.com/Tiliavir/wollbach-website/pull/915#issuecomment-4437240376) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 2. 🗣 Commented on [#594](https://github.com/Tiliavir/mvw-search-index/pull/594#issuecomment-4385709248) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 3. 🗣 Commented on [#594](https://github.com/Tiliavir/mvw-search-index/pull/594#issuecomment-4385407793) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 4. 💪 Opened PR [#890](https://github.com/Tiliavir/mvw-website/pull/890) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
