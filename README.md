@@ -43,10 +43,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#276](https://github.com/Tiliavir/rezepte/issues/276) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-2. 🗣 Commented on [#277](https://github.com/Tiliavir/rezepte/pull/277#issuecomment-4618904835) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-3. 🗣 Commented on [#277](https://github.com/Tiliavir/rezepte/pull/277#issuecomment-4618829835) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-4. 🗣 Commented on [#672](https://github.com/Tiliavir/janine-lindenmann.de/pull/672#issuecomment-4495862720) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 🔒 Closed issue [#26](https://github.com/Tiliavir/devcon-spaetzle/issues/26) in [Tiliavir/devcon-spaetzle](https://github.com/Tiliavir/devcon-spaetzle)
+2. ℹ️ Assigned issue [#26](https://github.com/Tiliavir/devcon-spaetzle/issues/26) in [Tiliavir/devcon-spaetzle](https://github.com/Tiliavir/devcon-spaetzle)
+3. ℹ️ Assigned issue [#26](https://github.com/Tiliavir/devcon-spaetzle/issues/26) in [Tiliavir/devcon-spaetzle](https://github.com/Tiliavir/devcon-spaetzle)
+4. ❗ Opened issue [#26](https://github.com/Tiliavir/devcon-spaetzle/issues/26) in [Tiliavir/devcon-spaetzle](https://github.com/Tiliavir/devcon-spaetzle)
 5. 🚀 Published release [26.04.24](https://github.com/Tiliavir/mvw-website/releases/tag/26.04.24) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 6. 🎉 Merged PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 7. 💪 Opened PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
