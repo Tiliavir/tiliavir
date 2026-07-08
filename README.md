@@ -43,12 +43,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1036](https://github.com/Tiliavir/mvw-website/issues/1036) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. 🗣 Commented on [#488](https://github.com/Tiliavir/rezepte/pull/488#issuecomment-4838496231) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-3. 🗣 Commented on [#1033](https://github.com/Tiliavir/mvw-website/pull/1033#issuecomment-4838494484) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. ❗ Opened issue [#26](https://github.com/Tiliavir/devcon-spaetzle/issues/26) in [Tiliavir/devcon-spaetzle](https://github.com/Tiliavir/devcon-spaetzle)
-5. 🚀 Published release [26.04.24](https://github.com/Tiliavir/mvw-website/releases/tag/26.04.24) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. 🎉 Merged PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [26.07.05](https://github.com/Tiliavir/mvw-website/releases/tag/26.07.05) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+2. 🎉 Merged PR [#1047](https://github.com/Tiliavir/mvw-website/pull/1047) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 💪 Opened PR [#1047](https://github.com/Tiliavir/mvw-website/pull/1047) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+4. 🔒 Closed issue [#1036](https://github.com/Tiliavir/mvw-website/issues/1036) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#1046](https://github.com/Tiliavir/mvw-website/pull/1046) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+6. 💪 Opened PR [#1046](https://github.com/Tiliavir/mvw-website/pull/1046) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 7. 💪 Opened PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
