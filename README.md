@@ -43,13 +43,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/Tiliavir/mvw-search-index/pull/682#issuecomment-5079327593) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-2. 🎉 Merged PR [#1047](https://github.com/Tiliavir/mvw-website/pull/1047) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 💪 Opened PR [#1047](https://github.com/Tiliavir/mvw-website/pull/1047) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 🔒 Closed issue [#1036](https://github.com/Tiliavir/mvw-website/issues/1036) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#1046](https://github.com/Tiliavir/mvw-website/pull/1046) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. 💪 Opened PR [#1046](https://github.com/Tiliavir/mvw-website/pull/1046) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 💪 Opened PR [#889](https://github.com/Tiliavir/mvw-website/pull/889) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🚀 Published release [26.08.28](https://github.com/Tiliavir/wollbach-website/releases/tag/26.08.28) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. 🎉 Merged PR [#1149](https://github.com/Tiliavir/wollbach-website/pull/1149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 💪 Opened PR [#1149](https://github.com/Tiliavir/wollbach-website/pull/1149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+4. 🗣 Commented on [#1146](https://github.com/Tiliavir/mvw-website/pull/1146#issuecomment-5411898305) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405277496) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+6. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405242351) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405049426) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
 10. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
