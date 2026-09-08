@@ -43,8 +43,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [26.08.28](https://github.com/Tiliavir/wollbach-website/releases/tag/26.08.28) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-2. 🎉 Merged PR [#1149](https://github.com/Tiliavir/wollbach-website/pull/1149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🗣 Commented on [#585](https://github.com/Tiliavir/rezepte/pull/585#issuecomment-5579281487) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+2. 🗣 Commented on [#751](https://github.com/Tiliavir/mvw-search-index/pull/751#issuecomment-5557951645) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
 3. 💪 Opened PR [#1149](https://github.com/Tiliavir/wollbach-website/pull/1149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 4. 🗣 Commented on [#1146](https://github.com/Tiliavir/mvw-website/pull/1146#issuecomment-5411898305) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
 5. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405277496) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
