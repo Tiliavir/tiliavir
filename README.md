@@ -43,10 +43,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/Tiliavir/rezepte/pull/585#issuecomment-5579281487) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-2. 🗣 Commented on [#751](https://github.com/Tiliavir/mvw-search-index/pull/751#issuecomment-5557951645) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-3. 💪 Opened PR [#1149](https://github.com/Tiliavir/wollbach-website/pull/1149) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-4. 🗣 Commented on [#1146](https://github.com/Tiliavir/mvw-website/pull/1146#issuecomment-5411898305) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+1. 🗣 Commented on [#780](https://github.com/Tiliavir/mvw-search-index/pull/780#issuecomment-5845950720) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
+2. 🗣 Commented on [#1209](https://github.com/Tiliavir/wollbach-website/pull/1209#issuecomment-5826941112) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+3. 🎉 Merged PR [#610](https://github.com/Tiliavir/rezepte/pull/610) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+4. 💪 Opened PR [#610](https://github.com/Tiliavir/rezepte/pull/610) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
 5. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405277496) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 6. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405242351) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 7. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405049426) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
