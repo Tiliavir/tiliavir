@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1232](https://github.com/Tiliavir/mvw-website/pull/1232) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-2. 💪 Opened PR [#1231](https://github.com/Tiliavir/mvw-website/pull/1231) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 💪 Opened PR [#1230](https://github.com/Tiliavir/mvw-website/pull/1230) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-4. 💪 Opened PR [#1229](https://github.com/Tiliavir/mvw-website/pull/1229) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#1228](https://github.com/Tiliavir/mvw-website/pull/1228) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-6. 💪 Opened PR [#1228](https://github.com/Tiliavir/mvw-website/pull/1228) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-7. 🗣 Commented on [#1141](https://github.com/Tiliavir/wollbach-website/pull/1141#issuecomment-5405049426) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-8. ❗ Opened issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-9. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
-10. ℹ️ Assigned issue [#17](https://github.com/Tiliavir/opencode-spaetzle/issues/17) in [Tiliavir/opencode-spaetzle](https://github.com/Tiliavir/opencode-spaetzle)
+1. 🚀 Published release [2026.10.13](https://github.com/Tiliavir/rezepte/releases/tag/2026.10.13) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+2. 🎉 Merged PR [#630](https://github.com/Tiliavir/rezepte/pull/630) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+3. 💪 Opened PR [#630](https://github.com/Tiliavir/rezepte/pull/630) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+4. 🎉 Merged PR [#1264](https://github.com/Tiliavir/mvw-website/pull/1264) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+5. 🎉 Merged PR [#1005](https://github.com/Tiliavir/janine-lindenmann.de/pull/1005) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+6. 🎉 Merged PR [#1257](https://github.com/Tiliavir/wollbach-website/pull/1257) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+7. 🎉 Merged PR [#629](https://github.com/Tiliavir/rezepte/pull/629) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+8. 💪 Opened PR [#629](https://github.com/Tiliavir/rezepte/pull/629) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
+9. 💪 Opened PR [#1005](https://github.com/Tiliavir/janine-lindenmann.de/pull/1005) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+10. 💪 Opened PR [#1257](https://github.com/Tiliavir/wollbach-website/pull/1257) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
 <!--END_SECTION:activity-->
 
 </details>
