@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2026.10.13](https://github.com/Tiliavir/rezepte/releases/tag/2026.10.13) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-2. 🎉 Merged PR [#630](https://github.com/Tiliavir/rezepte/pull/630) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-3. 💪 Opened PR [#630](https://github.com/Tiliavir/rezepte/pull/630) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-4. 🎉 Merged PR [#1264](https://github.com/Tiliavir/mvw-website/pull/1264) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-5. 🎉 Merged PR [#1005](https://github.com/Tiliavir/janine-lindenmann.de/pull/1005) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-6. 🎉 Merged PR [#1257](https://github.com/Tiliavir/wollbach-website/pull/1257) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-7. 🎉 Merged PR [#629](https://github.com/Tiliavir/rezepte/pull/629) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-8. 💪 Opened PR [#629](https://github.com/Tiliavir/rezepte/pull/629) in [Tiliavir/rezepte](https://github.com/Tiliavir/rezepte)
-9. 💪 Opened PR [#1005](https://github.com/Tiliavir/janine-lindenmann.de/pull/1005) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-10. 💪 Opened PR [#1257](https://github.com/Tiliavir/wollbach-website/pull/1257) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+1. 🚀 Published release [26.10.22](https://github.com/Tiliavir/wollbach-website/releases/tag/26.10.22) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+2. 🚀 Published release [26.10.22](https://github.com/Tiliavir/mvw-website/releases/tag/26.10.22) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+3. 🎉 Merged PR [#1029](https://github.com/Tiliavir/janine-lindenmann.de/pull/1029) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+4. 💪 Opened PR [#1029](https://github.com/Tiliavir/janine-lindenmann.de/pull/1029) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+5. 🚀 Published release [26.10.21](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.10.21) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+6. 🎉 Merged PR [#1028](https://github.com/Tiliavir/janine-lindenmann.de/pull/1028) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+7. 💪 Opened PR [#1028](https://github.com/Tiliavir/janine-lindenmann.de/pull/1028) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+8. 🎉 Merged PR [#1287](https://github.com/Tiliavir/mvw-website/pull/1287) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
+9. 🎉 Merged PR [#1274](https://github.com/Tiliavir/wollbach-website/pull/1274) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
+10. 🎉 Merged PR [#1027](https://github.com/Tiliavir/janine-lindenmann.de/pull/1027) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
 <!--END_SECTION:activity-->
 
 </details>
