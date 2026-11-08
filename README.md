@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/Tiliavir/mvw-search-index/pull/682#issuecomment-6508860926) in [Tiliavir/mvw-search-index](https://github.com/Tiliavir/mvw-search-index)
-2. 🚀 Published release [26.10.22](https://github.com/Tiliavir/mvw-website/releases/tag/26.10.22) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-3. 🎉 Merged PR [#1029](https://github.com/Tiliavir/janine-lindenmann.de/pull/1029) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-4. 💪 Opened PR [#1029](https://github.com/Tiliavir/janine-lindenmann.de/pull/1029) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-5. 🚀 Published release [26.10.21](https://github.com/Tiliavir/janine-lindenmann.de/releases/tag/26.10.21) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-6. 🎉 Merged PR [#1028](https://github.com/Tiliavir/janine-lindenmann.de/pull/1028) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-7. 💪 Opened PR [#1028](https://github.com/Tiliavir/janine-lindenmann.de/pull/1028) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
-8. 🎉 Merged PR [#1287](https://github.com/Tiliavir/mvw-website/pull/1287) in [Tiliavir/mvw-website](https://github.com/Tiliavir/mvw-website)
-9. 🎉 Merged PR [#1274](https://github.com/Tiliavir/wollbach-website/pull/1274) in [Tiliavir/wollbach-website](https://github.com/Tiliavir/wollbach-website)
-10. 🎉 Merged PR [#1027](https://github.com/Tiliavir/janine-lindenmann.de/pull/1027) in [Tiliavir/janine-lindenmann.de](https://github.com/Tiliavir/janine-lindenmann.de)
+1. 💪 Opened PR [#42](https://github.com/Tiliavir/haken/pull/42) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+2. 💪 Opened PR [#41](https://github.com/Tiliavir/haken/pull/41) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+3. 🎉 Merged PR [#40](https://github.com/Tiliavir/haken/pull/40) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+4. 💪 Opened PR [#40](https://github.com/Tiliavir/haken/pull/40) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+5. 🎉 Merged PR [#39](https://github.com/Tiliavir/haken/pull/39) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+6. 💪 Opened PR [#39](https://github.com/Tiliavir/haken/pull/39) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+7. 🎉 Merged PR [#38](https://github.com/Tiliavir/haken/pull/38) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+8. 💪 Opened PR [#38](https://github.com/Tiliavir/haken/pull/38) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+9. 🎉 Merged PR [#37](https://github.com/Tiliavir/haken/pull/37) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+10. 💪 Opened PR [#37](https://github.com/Tiliavir/haken/pull/37) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
 <!--END_SECTION:activity-->
 
 </details>
