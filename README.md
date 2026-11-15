@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/Tiliavir/haken/pull/42) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-2. 💪 Opened PR [#41](https://github.com/Tiliavir/haken/pull/41) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-3. 🎉 Merged PR [#40](https://github.com/Tiliavir/haken/pull/40) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-4. 💪 Opened PR [#40](https://github.com/Tiliavir/haken/pull/40) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-5. 🎉 Merged PR [#39](https://github.com/Tiliavir/haken/pull/39) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-6. 💪 Opened PR [#39](https://github.com/Tiliavir/haken/pull/39) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-7. 🎉 Merged PR [#38](https://github.com/Tiliavir/haken/pull/38) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-8. 💪 Opened PR [#38](https://github.com/Tiliavir/haken/pull/38) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-9. 🎉 Merged PR [#37](https://github.com/Tiliavir/haken/pull/37) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
-10. 💪 Opened PR [#37](https://github.com/Tiliavir/haken/pull/37) in [Tiliavir/haken](https://github.com/Tiliavir/haken)
+1. 🎉 Merged PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+2. ℹ️ Assigned PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+3. 💪 Opened PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+4. 🎉 Merged PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+5. ℹ️ Assigned PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+6. 💪 Opened PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
+7. 🎉 Merged PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+8. ℹ️ Assigned PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+9. 💪 Opened PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+10. 🎉 Merged PR [#201](https://github.com/Tiliavir/mvw-cashier-app/pull/201) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
 <!--END_SECTION:activity-->
 
 </details>
