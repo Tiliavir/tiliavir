@@ -43,16 +43,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-2. ℹ️ Assigned PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-3. 💪 Opened PR [#6](https://github.com/Tiliavir/ordnig/pull/6) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-4. 🎉 Merged PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-5. ℹ️ Assigned PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-6. 💪 Opened PR [#5](https://github.com/Tiliavir/ordnig/pull/5) in [Tiliavir/ordnig](https://github.com/Tiliavir/ordnig)
-7. 🎉 Merged PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-8. ℹ️ Assigned PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-9. 💪 Opened PR [#203](https://github.com/Tiliavir/mvw-cashier-app/pull/203) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
-10. 🎉 Merged PR [#201](https://github.com/Tiliavir/mvw-cashier-app/pull/201) in [Tiliavir/mvw-cashier-app](https://github.com/Tiliavir/mvw-cashier-app)
+1. 🎉 Merged PR [#45](https://github.com/Tiliavir/allmend/pull/45) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+2. ℹ️ Assigned PR [#45](https://github.com/Tiliavir/allmend/pull/45) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+3. 💪 Opened PR [#45](https://github.com/Tiliavir/allmend/pull/45) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+4. 🎉 Merged PR [#44](https://github.com/Tiliavir/allmend/pull/44) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+5. 🎉 Merged PR [#43](https://github.com/Tiliavir/allmend/pull/43) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+6. ℹ️ Assigned PR [#44](https://github.com/Tiliavir/allmend/pull/44) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+7. 💪 Opened PR [#44](https://github.com/Tiliavir/allmend/pull/44) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+8. 🎉 Merged PR [#226](https://github.com/Tiliavir/feschtkaessle/pull/226) in [Tiliavir/feschtkaessle](https://github.com/Tiliavir/feschtkaessle)
+9. ℹ️ Assigned PR [#43](https://github.com/Tiliavir/allmend/pull/43) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
+10. 💪 Opened PR [#43](https://github.com/Tiliavir/allmend/pull/43) in [Tiliavir/allmend](https://github.com/Tiliavir/allmend)
 <!--END_SECTION:activity-->
 
 </details>
